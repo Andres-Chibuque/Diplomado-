@@ -1,1 +1,5 @@
-Esto es una pruieba para conectar de GitBash a GitHub 
+Esto es una pruieba para conectar de GitBash a GitHub
+
+
+Y quiero combinar mis ramas
+ 
